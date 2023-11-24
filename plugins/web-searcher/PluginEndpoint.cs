@@ -55,7 +55,7 @@ public class PluginEndpoint
             DescriptionForHuman = "Searches the web",
             Auth = new PluginAuth()
             {
-                Type = "user_http"
+                Type = "none"//"user_http"
             },
             Api = new PluginApi()
             {
