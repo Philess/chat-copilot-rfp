@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "r4t-rficopilot-red-team",
+      "defaultValue": "CopilotChatWebApi20231124090426",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
